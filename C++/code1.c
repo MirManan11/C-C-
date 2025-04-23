@@ -1,14 +1,10 @@
 #include <stdio.h>
 int main()
 {
-    printf("hello world \n");
-    printf("manan\n");
-    int x;
-    x=10;
-    printf("%d",x);
-    printf("\n");
-    int y;
-    y=20;
-    printf("%d.",y);
+    int y=10;
+    int x=5;
+    int z=x+y;
+    printf("%d"),z).;
     return 0;
+
 }
