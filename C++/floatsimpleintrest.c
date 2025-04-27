@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    float p=100;
+    float p=200;
     float r=10;
     float t=2;
     float pi=p*r*t/100;
